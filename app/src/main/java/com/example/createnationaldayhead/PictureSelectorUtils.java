@@ -10,13 +10,6 @@ import com.luck.picture.lib.entity.LocalMedia;
 
 import java.util.List;
 
-/**
- * @author CuiZhen
- * @date 2019/6/4
- * QQ: 302833254
- * E-mail: goweii@163.com
- * GitHub: https://github.com/goweii
- */
 public class PictureSelectorUtils {
 
     public static void ofImage(Activity activity, int requestCode) {
